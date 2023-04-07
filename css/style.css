@@ -11,8 +11,9 @@ h1 {
 }
 
 h3{
-    background-color: red;
+    background-color: #3d463e;
     color:white;
+    text-decoration-style:wavy;
 }
 
 
@@ -24,5 +25,14 @@ h3{
 .ol,
 .ul{
     background-color:yellowgreen;
+}
+
+.img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    
+    height: 400px;
+    width:auto;
 }
 
