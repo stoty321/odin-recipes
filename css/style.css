@@ -1,0 +1,28 @@
+
+h1,
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+h3{
+    background-color: red;
+    color:white;
+}
+
+
+.text.para {
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: orange;
+}
+
+.ol,
+.ul{
+    background-color:yellowgreen;
+}
+
