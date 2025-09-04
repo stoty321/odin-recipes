@@ -1,4 +1,4 @@
-#Odin Recipes
+# Odin Recipes
 
 My attempt at the Project: Recipes assignment for the odin project.
 
