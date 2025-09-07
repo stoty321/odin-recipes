@@ -4,7 +4,7 @@ body{
     background-color: #41240a;
 }
 
-.odin-recipes{
+h1{
     padding: 20px;
     margin: 0 auto;
     text-align: center;
@@ -31,5 +31,5 @@ a{
 }
 
 a:hover {
-    background-color: #4b2916; /* Darker green on hover */
+    background-color: #4b2916; 
 }
