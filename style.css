@@ -1,7 +1,12 @@
-body{
+.background{
     max-width: 800px;
     margin: 0 auto;
     background-color: #41240a;
+}
+
+.body{
+    background-color: wheat;
+    padding: 0px 20px;
 }
 
 h1{
@@ -17,6 +22,7 @@ h1{
     background-color: #f5deb3;
 
 }
+
 a{
     display: inline-block;
     background-color: #c49031;
