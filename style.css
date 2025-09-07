@@ -1,0 +1,12 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #41240a;
+}
+
+.odin-recipes{
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: orange;
+}
