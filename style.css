@@ -1,3 +1,4 @@
+
 .background{
     max-width: 800px;
     margin: 0 auto;
@@ -16,12 +17,13 @@ h1{
     margin: 0 auto;
     text-align: center;
     background-color: #ffa500;
+    /* border-bottom: 1px solid black; */
 }
 
 
 .links{
     text-align: center;
-    background-color: #f5deb3;
+    background-color: #fcc869;
 
 }
 
